@@ -1,126 +1,172 @@
-# Hi 👋, I'm Akshitha Merugu
+<!-- ============================ HEADER ============================ -->
 
-```{=html}
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A11CB,50:2575FC,100:00C9FF&text=Akshitha%20Merugu&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Akshitha Merugu</h1>
+
 <h3 align="center">
-```
-Computer Science Student \| Passionate about AI, Machine Learning &
-Software Development
-```{=html}
+Computer Science Student • AI & Machine Learning Enthusiast • Software Development
 </h3>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Akshitha%20Merugu&fontSize=45&fontColor=ffffff"/>`{=html}
-```{=html}
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1200&color=00C9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Software+Development;Always+Learning+New+Technologies"/>
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Software+Development;Always+Learning+New+Technologies"/>`{=html}
-```{=html}
+
+<img src="https://komarev.com/ghpvc/?username=meruguakshitha926-star&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
--   🎓 **B.Tech CSE** @ MRECW
--   📍 Andhra Pradesh, India
--   🌱 Learning: Machine Learning, Deep Learning, NLP, Transformers,
-    Generative AI
--   💡 Interested in AI, Software Development & Problem Solving
--   📧 **meruguakshitha926@gmail.com**
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-------------------------------------------------------------------------
+🎓 B.Tech Computer Science Student at **MRECW**
 
-## 🌐 Connect with Me
+🌱 Currently Learning
 
-```{=html}
+- Machine Learning
+- Deep Learning
+- NLP
+- Transformers
+- Generative AI
+
+💡 Interested In
+
+- Artificial Intelligence
+- Software Development
+- Problem Solving
+- Building Real-world Applications
+
+📫 Reach me
+
+**meruguakshitha926@gmail.com**
+
+📍 India
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/akshitha-merugu-7a677632a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:meruguakshitha926@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
 <p>
-```
-`<a href="https://www.linkedin.com/in/akshitha-merugu-7a677632a/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
-`</a>`{=html} `<a href="mailto:meruguakshitha926@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
-`</a>`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🚀 Tech Stack
+## 🎨 Frontend
 
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,java,c,html,css,react,tailwind,fastapi,postgres,mysql,git,github,vscode,tensorflow,pytorch"/>`{=html}
-```{=html}
-</p>
-```
-**AI/ML:** NumPy • Pandas • Scikit-Learn
-
-------------------------------------------------------------------------
-
-## 🚀 Featured Projects
-
--   🛠 **Issue Tracker Pro**
--   🚖 **Online Cab Booking System**
--   ✍ **Signature App**
--   👨‍🏫 **One-to-One Mentor Platform**
--   🏡 **HomeWorth (Hackathon Project)**
--   🌧 **Smart Drainage Monitoring System**
-
-------------------------------------------------------------------------
-
-## 📊 GitHub Stats
-
-```{=html}
-<p align="center">
-```
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=meruguakshitha926-star&show_icons=true&theme=tokyonight"/>`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meruguakshitha926-star&layout=compact&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
-## 🔥 GitHub Streak
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=meruguakshitha926-star&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
-## 📈 Contribution Graph
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=meruguakshitha926-star&theme=tokyo-night"/>`{=html}
-```{=html}
-</p>
-```
-## 👀 Profile Views
-
-```{=html}
 <p>
-```
-`<img src="https://komarev.com/ghpvc/?username=meruguakshitha926-star&label=Profile%20Views&style=flat-square"/>`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
 </p>
-```
-## 💡 Quote
 
-> **"Learning never exhausts the mind." --- Leonardo da Vinci**
+---
 
-```{=html}
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+</p>
+
+- FastAPI
+- SQLAlchemy
+- Uvicorn
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## 🤖 AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+</p>
+
+- NumPy
+
+- Pandas
+
+- Scikit-Learn
+
+---
+
+## 🛠 Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+Google Colab
+
+---
+
+# 🚀 Skills
+
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,react,tailwind,fastapi,postgres,mysql,git,github,vscode,tensorflow,pytorch"/>
+
 </p>
-```
+
+---
