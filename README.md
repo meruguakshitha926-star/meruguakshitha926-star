@@ -45,7 +45,7 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/xxxxxxxx">
+<a href="[https://www.linkedin.com/in/akshitha-merugu-7a677632a/]">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -186,14 +186,6 @@ Platform connecting students with mentors.
 
 ## 🏡 HomeWorth (Hackathon Project)
 
-Smart solution developed during a hackathon.
-
-**Tech Stack**
-
-- React.js
-- Tailwind CSS
-- FastAPI
-- PostgreSQL
 
 ---
 
@@ -226,7 +218,7 @@ College team project for monitoring drainage systems in real time.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Status
 
 <p align="center">
 
@@ -248,15 +240,7 @@ College team project for monitoring drainage systems in real time.
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=meruguakshitha926-star&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
