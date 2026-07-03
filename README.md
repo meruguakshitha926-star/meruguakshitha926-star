@@ -1,11 +1,24 @@
-<!-- Banner -->
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Akshitha%20Merugu&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Akshitha Merugu</h1>
+
 <h3 align="center">
 Computer Science Student | Passionate about AI, Machine Learning & Software Development
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Aspiring+AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Always+Learning+New+Technologies" />
+Building intelligent solutions through continuous learning and innovation 🚀
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=meruguakshitha926-star&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Akshitha+Merugu;Computer+Science+Student;Passionate+about+AI+%26+Machine+Learning;Software+Development+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
 ---
@@ -14,7 +27,7 @@ Computer Science Student | Passionate about AI, Machine Learning & Software Deve
 
 🎓 Computer Science Student at **MRECW**
 
-🌱 Currently learning
+🌱 Currently Learning
 
 - Machine Learning
 - Deep Learning
@@ -22,13 +35,13 @@ Computer Science Student | Passionate about AI, Machine Learning & Software Deve
 - Transformers
 - Generative AI
 
-💡 Passionate about
+💡 Passionate About
 
 - Artificial Intelligence
-- Full Stack Development
+- Machine Learning
+- Software Development
 - Problem Solving
-- Open Source
-
+- Continuous Learning
 
 📫 Reach me at
 
@@ -40,12 +53,12 @@ Computer Science Student | Passionate about AI, Machine Learning & Software Deve
 
 <p align="left">
 
-<a href="[https://www.linkedin.com/in/akshitha-merugu-7a677632a/]">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/akshitha-merugu-7a677632a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:meruguakshitha926@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -57,70 +70,56 @@ Computer Science Student | Passionate about AI, Machine Learning & Software Deve
 ## Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css"/>
-
 </p>
-
----
 
 ## Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,tailwind"/>
-
 </p>
-
----
 
 ## Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=fastapi"/>
-
 </p>
 
 - FastAPI
 - Uvicorn
 - SQLAlchemy
 
----
-
 ## Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
 </p>
-
----
 
 ## AI / ML
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
 </p>
 
 - NumPy
 - Pandas
 - Scikit-Learn
 
----
-
 ## Developer Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
 </p>
 
 - Google Colab
+
+---
+
+# ⚙️ Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,react,tailwind,fastapi,postgres,mysql,git,github,vscode,tensorflow,pytorch"/>
+</p>
 
 ---
 
@@ -128,7 +127,7 @@ Computer Science Student | Passionate about AI, Machine Learning & Software Deve
 
 ## 🛠 Issue Tracker Pro
 
-Modern issue tracking platform
+Modern issue tracking platform.
 
 **Tech Stack**
 
@@ -149,6 +148,7 @@ Cab booking platform with user authentication and booking management.
 - React.js
 - Tailwind CSS
 - FastAPI
+- SQLAlchemy
 - PostgreSQL
 
 ---
@@ -162,6 +162,7 @@ Digital signature application for secure document signing.
 - React.js
 - Tailwind CSS
 - FastAPI
+- SQLAlchemy
 - PostgreSQL
 
 ---
@@ -175,24 +176,35 @@ Platform connecting students with mentors.
 - React.js
 - Tailwind CSS
 - FastAPI
+- SQLAlchemy
 - PostgreSQL
 
 ---
 
 ## 🏡 HomeWorth (Hackathon Project)
 
-
----
-
-## 🌧 Smart Drainage Monitoring System
-
-College team project for monitoring drainage systems in real time.
+A smart real-estate solution developed during a hackathon.
 
 **Tech Stack**
 
 - React.js
 - Tailwind CSS
 - FastAPI
+- SQLAlchemy
+- PostgreSQL
+
+---
+
+## 🌧 Smart Drainage Monitoring System
+
+A college team project for real-time drainage monitoring and smart alert generation.
+
+**Tech Stack**
+
+- React.js
+- Tailwind CSS
+- FastAPI
+- SQLAlchemy
 - PostgreSQL
 
 ---
@@ -213,7 +225,7 @@ College team project for monitoring drainage systems in real time.
 
 ---
 
-# 📊 GitHub Status
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -235,8 +247,6 @@ College team project for monitoring drainage systems in real time.
 
 ---
 
-
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -247,19 +257,9 @@ College team project for monitoring drainage systems in real time.
 
 ---
 
-# 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=meruguakshitha926-star&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
 # 💡 Quote
 
-> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
+> **"Learning never exhausts the mind." — Leonardo da Vinci**
 
 ---
 
