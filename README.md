@@ -1,6 +1,8 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Akshitha Merugu</h1>
-<h3 align="center">Computer Science Student | Tech Enthusiast/h3>
+<h3 align="center">
+Computer Science Student | Passionate about AI, Machine Learning & Software Development
+</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Aspiring+AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Always+Learning+New+Technologies" />
